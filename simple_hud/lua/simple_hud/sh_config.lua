@@ -1,0 +1,1 @@
+simple_hud.config.lang = "french"
