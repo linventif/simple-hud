@@ -1,1 +1,1 @@
-simple_hud.config.lang = "french"
+simple_hud.config.lang = "french" 
